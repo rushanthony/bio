@@ -3,3 +3,7 @@ This is me.
 I am red.
 
 I am an apple.
+
+What if I was an orange?
+
+Ridiculous.
